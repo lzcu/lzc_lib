@@ -6,7 +6,7 @@ import Vue from 'vue'
 import {Header, Tabbar, TabItem } from 'mint-ui'
 
 
-//手动安装组件
+//手动安装的组件
 Vue.component(Header.name, Header) 
 Vue.component(Tabbar.name, Tabbar)
 Vue.component(TabItem.name, TabItem)
