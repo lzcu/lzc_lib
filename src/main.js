@@ -5,6 +5,7 @@ import Vue from 'vue'
 //按需导入 mint-ui 组件
 import {Header, Tabbar, TabItem } from 'mint-ui'
 
+
 //手动安装组件
 Vue.component(Header.name, Header) 
 Vue.component(Tabbar.name, Tabbar)
